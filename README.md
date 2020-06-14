@@ -1,7 +1,6 @@
 [![CircleCI](https://circleci.com/gh/google/pybadges.svg?style=svg)](https://circleci.com/gh/google/pybadges)
 ![pypi](https://img.shields.io/pypi/v/pybadges.svg)
 ![versions](https://img.shields.io/pypi/pyversions/pybadges.svg)
-![pip installation](tests/golden-images/build-passing.svg)
 
 # distributions_gauss_bi
 
@@ -52,26 +51,25 @@ There are many ways to contribute to distributions_gauss_bi, with the most commo
 
 ## Gaussian and Binomial distribution overview
 ### 1. Gaussian distribution (also known as Normal distribution) 
-- In probability theory, a normal distribution is a type of continuous probability distribution for a real-valued random variable. The general form of its probability density function is The parameter is the mean or expectation of the distribution; and is its standard deviation.
-- The general form of its probability density function is:
-<a href="url"><img src="https://github.com/RocqJones/distributions_gauss_bi/blob/master/imgs/gaussian1.png" height="50" width="90%" ></a>
-<a href="url"><img src="https://github.com/RocqJones/distributions_gauss_bi/blob/master/imgs/gaussian2.png" height="50" width="90%" ></a>
+- In probability theory, a normal distribution is a type of continuous probability distribution for a real-valued random variable. The general form of its probability density function is The parameter is the mean or expectation of the distribution; and is its standard deviation. The general form of its probability density function is:
+<a href="url"><img src="https://github.com/RocqJones/distributions_gauss_bi/blob/master/imgs/gaussian1.png" height="60%" width="100%" ></a> 
+<a href="url"><img src="https://github.com/RocqJones/distributions_gauss_bi/blob/master/imgs/gaussian2.png" height="60%" width="100%" ></a>
 
 #### Further Resources.
 If you would like to review the Gaussian (normal) distribution and binomial distribution, here are a few resources:
-* [Gaussian Distributions Wikipedia](https://en.wikipedia.org/wiki/Normal_distribution)
-<a href="url"><img src="https://github.com/RocqJones/distributions_gauss_bi/blob/master/imgs/Normal_Distribution.png" height="50" width="50%" ></a>
-* [](https://en.wikipedia.org/wiki/Binomial_distribution)
-<a href="url"><img src="https://github.com/RocqJones/distributions_gauss_bi/blob/master/imgs/Binomial_distribution.png" height="50" width="50%" ></a>
+* [Gaussian Distribution](https://en.wikipedia.org/wiki/Normal_distribution)
+<a href="url"><img src="https://github.com/RocqJones/distributions_gauss_bi/blob/master/imgs/Normal_Distribution.png" height="40%" width="500" ></a>
+
+* [Binomial Distribution](https://en.wikipedia.org/wiki/Binomial_distribution)
+<a href="url"><img src="https://github.com/RocqJones/distributions_gauss_bi/blob/master/imgs/Binomial_distribution.png" height="40%" width="500" ></a>
 
 #### Dunder or magic methods in Python. 
 Dunder or magic methods in Python are the methods having two prefix and suffix underscores in the method name. Dunder here means “Double Under (Underscores)”. These are commonly used for operator overloading. eg ``__init__``
 
 For instance if you want to add two Gaussian distributions to create another object of a third Gaussian distribution; 
 * This is what I mean: ```gauss_a + gauss_b = gauss_c```
-<a href="url"><img src="https://github.com/RocqJones/distributions_gauss_bi/blob/master/imgs/gauss_distribution.png" height="150" width="100%" ></a>
+<a href="url"><img src="https://github.com/RocqJones/distributions_gauss_bi/blob/master/imgs/gauss_distribution.png" height="60%" width="100%" ></a>
 
 ### 2. Binomial distribution.
 - In probability theory and statistics, the binomial distribution with parameters n and p is the discrete probability distribution of the number of successes in a sequence of n independent experiments, each asking a yes–no question, and each with its own boolean-valued outcome: success/yes/true/one (with probability p) or failure/no/false/zero (with probability q = 1 − p).
-<a href="url"><img src="https://github.com/RocqJones/distributions_gauss_bi/blob/master/imgs/Binomial_distribution_1.png" height="150" width="100%" ></a>
-<a href="url"><img src="https://github.com/RocqJones/distributions_gauss_bi/blob/master/imgs/Binomial_distribution_2.png" height="150" width="100%" ></a>
+<a href="url"><img src="https://github.com/RocqJones/distributions_gauss_bi/blob/master/imgs/Binomial_distribution_1.png" height="40%" width="500" ></a> <a href="url"><img src="https://github.com/RocqJones/distributions_gauss_bi/blob/master/imgs/Binomial_distribution_2.png" height="40%" width="500" ></a>
