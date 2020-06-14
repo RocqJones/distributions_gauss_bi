@@ -43,12 +43,12 @@ On your commandline or favorite editor run below python code after installation.
 
 ## Contibution.
 There are many ways to contribute to distributions_gauss_bi, with the most common ones being contribution of code or documentation to the project. Improving the documentation is no less important than improving the module itself. If you find a typo in the documentation or have made improvements on pseudocode or source code, do not hesitate to submit a GitHub pull request.
-* **NOTE** Before reviewing the code I would encourage you go through the [pseudocode](https://github.com/RocqJones/distributions_gauss_bi/pseudocode.txt)
+* **NOTE** Before reviewing the code I would encourage you go through the [pseudocode](https://github.com/RocqJones/distributions_gauss_bi/blob/master/pseudocode.txt)
 
 ## Important links.
 * **Pseudocode:** https://github.com/RocqJones/distributions_gauss_bi/pseudocode.txt
 * **PyPI:** https://pypi.org/project/distributions-gauss-bi/
-* **Test-PyPI:** https://test.pypi.org/project/distributions-gauss-bi/
+* **Test-PyPI:** https://github.com/RocqJones/distributions_gauss_bi/blob/master/pseudocode.txt
 
 ## Gaussian and Binomial distribution overview
 ### 1. Gaussian distribution (also known as Normal distribution) 
