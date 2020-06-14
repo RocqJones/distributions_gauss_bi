@@ -1,6 +1,7 @@
 [![CircleCI](https://circleci.com/gh/google/pybadges.svg?style=svg)](https://circleci.com/gh/google/pybadges)
-![pypi](https://img.shields.io/pypi/v/pybadges.svg)
-![versions](https://img.shields.io/pypi/pyversions/pybadges.svg)
+![pypi](https://img.shields.io/badge/pypi-0.0.2-green)
+![versions](https://img.shields.io/badge/python-3.6%20%7C%203.7%20%7C%203.8-blue)
+![licence](https://img.shields.io/badge/licence-MIT%20license-orange)
 
 # distributions_gauss_bi
 
@@ -71,5 +72,6 @@ For instance if you want to add two Gaussian distributions to create another obj
 <a href="url"><img src="https://github.com/RocqJones/distributions_gauss_bi/blob/master/imgs/gauss_distribution.png" height="60%" width="100%" ></a>
 
 ### 2. Binomial distribution.
-- In probability theory and statistics, the binomial distribution with parameters n and p is the discrete probability distribution of the number of successes in a sequence of n independent experiments, each asking a yes–no question, and each with its own boolean-valued outcome: success/yes/true/one (with probability p) or failure/no/false/zero (with probability q = 1 − p).
+- In probability theory and statistics, the binomial distribution with parameters n and p is the discrete probability distribution of the number of successes in a sequence of n independent experiments, each asking a yes–no question, and each with its own boolean-valued outcome: success/yes/true/one (with probability p) or failure/no/false/zero (with probability q = 1 − p). <br>
+
 <a href="url"><img src="https://github.com/RocqJones/distributions_gauss_bi/blob/master/imgs/Binomial_distribution_1.png" height="40%" width="500" ></a> <a href="url"><img src="https://github.com/RocqJones/distributions_gauss_bi/blob/master/imgs/Binomial_distribution_2.png" height="40%" width="500" ></a>
